@@ -19,4 +19,3 @@ hafızasını kullanarak ilgili karelerdeki sayıları aklında tutmalıdır
 soruları cevaplanmasıyla ölçülecektir
 4) puanlama
 • Her doğru cevap: 10 puan
-oyun 1 dakika sürer. Oyun başlatıldığın an süre başlar ve oyuncunun önüne sayılar gelir. Oyuncu hazır olduğunda tabloyu kapatır ve önüne çıkan soruyu cevaplamaya çalışır
