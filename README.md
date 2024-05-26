@@ -19,3 +19,6 @@ hafızasını kullanarak ilgili karelerdeki sayıları aklında tutmalıdır
 soruları cevaplanmasıyla ölçülecektir
 4) puanlama
 • Her doğru cevap: 10 puan
+
+
+https://youtu.be/ckcm5hPQ-Gk
